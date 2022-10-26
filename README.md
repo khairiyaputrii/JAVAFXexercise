@@ -1,2 +1,6 @@
 # JAVAFXexercise
-JavaFX making a sentence project
+
+Khairiya Maisa Putri
+5025211192
+
+JavaFX making a sentence from buttons project
